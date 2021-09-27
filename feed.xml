@@ -3,7 +3,7 @@
     <title>criterion</title>
     <link href="https://criterion.d8services.com/feed.xml" rel="self" />
     <link href="https://criterion.d8services.com" />
-    <updated>2021-09-27T09:04:14+07:00</updated>
+    <updated>2021-09-27T09:18:17+07:00</updated>
     <author>
         <name>ttyler</name>
     </author>
@@ -40,7 +40,7 @@
         <link href="https://criterion.d8services.com/welcome-to-criterion.html"/>
         <id>https://criterion.d8services.com/welcome-to-criterion.html</id>
 
-        <updated>2021-09-27T09:02:00+07:00</updated>
+        <updated>2021-09-27T09:18:17+07:00</updated>
             <summary>
                 <![CDATA[
                     Criterion is a D8 Services App designed for B2B business's running Jamf's Jamf PRO MDM service. The aim is to offer an app showing your preferred web page, and an agree option to accept the content. The page you offer should have no links outside&hellip;
@@ -54,7 +54,7 @@
 <p>Once the app is visible in your Jamf PRO Server it must be configured, this is done via an App Config, see below.</p>
 <p><code>&lt;dict&gt;<br> &lt;key&gt;serverURL&lt;/key&gt;<br> &lt;string&gt;$JPS_URL&lt;/string&gt;<br> &lt;key&gt;apiCredentials&lt;/key&gt;<br> &lt;string&gt;api Credentials Here&lt;/string&gt;<br> &lt;key&gt;deviceID&lt;/key&gt;<br> &lt;string&gt;$JSSID&lt;/string&gt;<br> &lt;key&gt;pageTitle&lt;/key&gt;<br> &lt;string&gt;Agree and Submit&lt;/string&gt;<br> &lt;key&gt;buttonText&lt;/key&gt;<br> &lt;string&gt;Submit&lt;/string&gt;<br> &lt;key&gt;descriptionText&lt;/key&gt;<br> &lt;string&gt;Agree to terms and Conditions&lt;/string&gt;<br> &lt;key&gt;URLToOpen&lt;/key&gt;<br> &lt;string&gt;https://flex.d8services.com/flex-app-privacy-policy/&lt;/string&gt;<br> &lt;key&gt;extensionAttribute&lt;/key&gt;<br> &lt;string&gt;AgreeToThis&lt;/string&gt;<br> &lt;key&gt;valueToSubmit&lt;/key&gt;<br> &lt;string&gt;Agreed&lt;/string&gt;<br> &lt;key&gt;goodSubmissionText&lt;/key&gt;<br> &lt;string&gt;Submission was sucessfully posted to your server.&lt;/string&gt;<br> &lt;key&gt;badSubmissionText&lt;/key&gt;<br> &lt;string&gt;Submission to your server failed. Please try again&lt;/string&gt;<br> &lt;key&gt;ToggleSlider&lt;/key&gt;<br> &lt;string&gt;You must agree to this first&lt;/string&gt;<br>&lt;/dict&gt;</code></p>
 <p>As such a simple app you may wonder why do we include so many options, quite simply it is for other countries to customised the text displayed to their users, we do after all have more than english as a language.</p>
-<p>I have included a link here for you to see the Criterion privacy statement, there are zero links on this page, in order for the end user to be on one page, and not navigate away.</p>
+<p>I have included a link <a href="https://criterion.d8services.com/criterion-app-privacy-policy.html">here</a> for you to see the Criterion privacy statement, there are zero links on this page, in order for the end user to be on one page, and not navigate away.</p>
             ]]>
         </content>
     </entry>
