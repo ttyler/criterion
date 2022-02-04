@@ -3,7 +3,7 @@
     <title>criterion</title>
     <link href="https://criterion.d8services.com/feed.xml" rel="self" />
     <link href="https://criterion.d8services.com" />
-    <updated>2021-09-27T10:24:07+07:00</updated>
+    <updated>2022-02-04T16:03:02+07:00</updated>
     <author>
         <name>ttyler</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://criterion.d8services.com/criterion-app-privacy-policy.html"/>
         <id>https://criterion.d8services.com/criterion-app-privacy-policy.html</id>
 
-        <updated>2021-09-27T09:56:51+07:00</updated>
+        <updated>2022-02-04T16:03:02+07:00</updated>
             <summary>
                 <![CDATA[
                      Flex App Privacy Policy Criterion by D8 Services Ltd. HK The Criterion App (from here on referred to as ‘The App’) was written by engineers from D8 Services Ltd., Hong Kong. The App will not work unless configured by a Jamf PRO Administrator to&hellip;
@@ -27,7 +27,7 @@
             <![CDATA[
                 
   <p>
-    Flex App Privacy Policy<br>Criterion by D8 Services Ltd. HK<br><br>The Criterion App (from here on referred to as ‘The App’) was written by engineers from D8 Services Ltd., Hong Kong. The App will not work unless configured by a Jamf PRO Administrator to access device data from an company owned Jamf PRO Server.<br><br>The App will access data directly with the credentials and serverURL as provided by the Jamf administrator through an App Configuration. There are no URLs accessed outside of this configuration, although the web page you offer must be standalone and have no links for this work.<br><br>D8 Services does not collect, store nor maintain ANY end user data aside from that provided by Apple in regards to the use, maintenance or communications via the Apple iOS App Store. We have zero interest in selling, storing, collecting nor manipulating end user data, further to this, D8 Services will never share data with any 3rd parties knowingly or maliciously. We want to make a product that can be deployed simply with no advertising and no ‘hidden’ costs, nor any in app purchases. As required by Apple policy, we do not share any personally identifiable data collected by our service with any third parties for any reason. The App has been released as a product for any organisation, business, university or school to use as they see fit.<br><br>No user data was harmed or will be harmed in the making of this policy.
+    Flex App Privacy Policy<br>Criterion by D8 Services Ltd. HK<br><br>The Criterion App (from here on referred to as ‘The App’) was written by engineers from D8 Services Ltd., Hong Kong. The App will not work unless configured by a Jamf PRO Administrator to access device data from an company owned Jamf PRO Server.<br><br>The App will access data directly with the credentials and serverURL as provided by the Jamf administrator through an App Configuration. There are no URLs accessed outside of this configuration, although the web page you offer must be standalone and have no links for this to work.<br><br>D8 Services does not collect, store nor maintain ANY end user data aside from that provided by Apple in regards to the use, maintenance or communications via the Apple iOS App Store. We have zero interest in selling, storing, collecting nor manipulating end user data, further to this, D8 Services will never share data with any 3rd parties knowingly or maliciously. We want to make a product that can be deployed simply with no advertising and no ‘hidden’ costs, nor any in app purchases. As required by Apple policy, we do not share any personally identifiable data collected by our service with any third parties for any reason. The App has been released as a product for any organisation, business, university or school to use as they see fit.<br><br>No user data was harmed or will be harmed in the making of this policy.
   </p>
             ]]>
         </content>
